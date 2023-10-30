@@ -1,4 +1,3 @@
-
 #TictacToe-AI
 
 This code implements the TicTacToe game logic and AI players using Alpha-Beta Pruning.
